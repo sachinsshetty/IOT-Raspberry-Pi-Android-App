@@ -1,4 +1,0 @@
-#Mon Sep 10 10:27:38 IST 2018
-base.0=C\:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
-path.0=classes.dex
-renamed.0=classes.dex

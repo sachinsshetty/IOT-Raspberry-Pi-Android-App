@@ -1,36 +1,53 @@
-apply plugin: 'com.android.application'
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+apply plugin: 'org.sonarqube'
 
-android {
-    compileSdkVersion 23
-    buildToolsVersion "23.0.1"
+buildscript {
 
-    defaultConfig {
-        applicationId "com.mithu.mithunmistry.mithun"
-        minSdkVersion 15
-        targetSdkVersion 23
-        versionCode 3
-        versionName "3"
+    ext {
+        // Sdk and tools
+        compileSdkVersion = 28
+        minSdkVersion = 19
+        targetSdkVersion = 28
+
+        // App dependencies
+        constraintLayoutVersion = '2.0.0-alpha2'
+        glideVersion = '4.4.0'
+        gradleVersion = '3.2.0-beta05'
+        gsonVersion = '2.8.2'
+        junitVersion = '4.12'
+        lifecycleVersion = '1.1.1'
+        navigationVersion = '1.0.0-alpha05'
+        roomVersion = '1.1.1'
+        runnerVersion = '1.0.1'
+        supportLibraryVersion = '28.0.0-rc01'
+        workVersion = '1.0.0-alpha07'
     }
-    buildTypes {
-        release {
-            minifyEnabled false
-            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+
+
+    repositories {
+        jcenter()
+        google()
+        maven {
+            url "https://plugins.gradle.org/m2/"
         }
+    }
+    dependencies {
+        classpath "com.android.tools.build:gradle:$gradleVersion"
+
+        classpath "org.sonarsource.scanner.gradle:sonarqube-gradle-plugin:2.6.2"
+        //     classpath "gradle.plugin.com.vanniktech:gradle-android-junit-jacoco-plugin:0.12.0"
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
     }
 }
 
-dependencies {
-    compile fileTree(include: ['*.jar'], dir: 'libs')
-    testCompile 'junit:junit:4.12'
-    compile 'com.android.support:appcompat-v7:23.1.0'
-    compile 'com.android.support:design:23.1.0'
-    compile 'com.android.support:support-v4:23.1.0'
-    compile 'com.androidplot:androidplot-core:0.9.6'
-    //compile 'pl.droidsonroids.gif:android-gif-drawable:1.1.+'
-    compile 'com.github.nkzawa:socket.io-client:0.3.0'
-    //compile ('io.socket:socket.io-client:0.7.0') {
-        // excluding org.json which is provided by Android
-      //  exclude group: 'org.json', module: 'json'
-    //}
-    compile project(':flot_android_1.0')
+allprojects {
+    repositories {
+        jcenter()
+        google()
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
 }

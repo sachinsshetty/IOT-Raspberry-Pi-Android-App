@@ -1,0 +1,64 @@
+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8æÆÔŽÜ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ËÔ8æÆÔŽÜ,
+asquid:S2147"ECombine this catch with the one at line 144, which has the same body.(ŸäÁ‚8æÆÔŽÜ,
+jsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(ª¿¡8æÆÔŽÜ,
+asquid:S2147"ECombine this catch with the one at line 166, which has the same body.(”ý¾8æÆÔŽÜ,
+xsquid:UselessImportCheck"ORemove this unused import 'android.support.design.widget.FloatingActionButton'.(„Ÿ¹¼8æÆÔŽÜ,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8æÆÔŽÜ,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8æÆÔŽÜ,
+isquid:S1858"H"getHostAddress" returns a string, there's no need to call "toString()".(ÿ¦ÿ¿úÿÿÿÿ8æÆÔŽÜ,
+`squid:UselessImportCheck"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ8æÆÔŽÜ,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8æÆÔŽÜ,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8æÆÔŽÜ,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8æÆÔŽÜ,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8æÆÔŽÜ,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8æÆÔŽÜ,
+Dsquid:S1148"#Use a logger to log this exception.(Âþÿâûÿÿÿÿ8æÆÔŽÜ,
+Dsquid:S1148"#Use a logger to log this exception.(Âþÿâûÿÿÿÿ8æÆÔŽÜ,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8æÆÔŽÜ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¼à¦Íøÿÿÿÿ8æÆÔŽÜ,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8æÆÔŽÜ,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8æÆÔŽÜ,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8æÆÔŽÜ,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8æÆÔŽÜ,
+Xsquid:UselessImportCheck"/Remove this unused import 'android.os.Handler'.(ûÛ’¡8æÆÔŽÜ,
+asquid:S2147"ECombine this catch with the one at line 232, which has the same body.(ï­£Ä8æÆÔŽÜ,
+asquid:S2147"ECombine this catch with the one at line 214, which has the same body.(ï­£Ä8æÆÔŽÜ,
+Zsquid:UselessImportCheck"1Remove this unused import 'android.app.Activity'.(‡ÊÍÆ8æÆÔŽÜ,
+Nsquid:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8æÆÔŽÜ,
+asquid:S2147"ECombine this catch with the one at line 251, which has the same body.(ï­£Ä8æÆÔŽÜ,
+[squid:S1161":Add the "@Override" annotation above this method signature(œƒƒ©ùÿÿÿÿ8æÆÔŽÜ,
+asquid:S2147"ECombine this catch with the one at line 128, which has the same body.(”ý¾8æÆÔŽÜ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÇÞ•Ïþÿÿÿÿ8æÆÔŽÜ,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8æÆÔŽÜ,
+Csquid:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ8æÆÔŽÜ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(£¾ïúþÿÿÿÿ8æÆÔŽÜ,
+asquid:UselessImportCheck"3Remove this unused import 'android.webkit.WebView'.(Î‚¸üÿÿÿÿ8æÆÔŽÜ,
+asquid:S2147"ECombine this catch with the one at line 232, which has the same body.(”ý¾8æÆÔŽÜ,
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÖöÈJ8æÆÔŽÜ,
+csquid:UselessImportCheck"5Remove this unused import 'java.net.SocketException'.(¼„™€ûÿÿÿÿ8æÆÔŽÜ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(û¤ñáþÿÿÿÿ8æÆÔŽÜ,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8æÆÔŽÜ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ïº¢8æÆÔŽÜ,
+[squid:UselessImportCheck"-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ8æÆÔŽÜ,
+]squid:UselessImportCheck"5Remove this unused import 'android.app.Notification'.(¸Ó†98æÆÔŽÜ,
+asquid:S2147"ECombine this catch with the one at line 251, which has the same body.(”ý¾8æÆÔŽÜ,
+asquid:S2147"ECombine this catch with the one at line 166, which has the same body.(ï­£Ä8æÆÔŽÜ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(îá£Òÿÿÿÿÿ8œ£ÝŽÜ,
+asquid:S2147"ECombine this catch with the one at line 128, which has the same body.(ï­£Ä8æÆÔŽÜ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñ²À«8æÆÔŽÜ,
+Osquid:S2201".The return value of "replaceAll" must be used.(«ìðêþÿÿÿÿ8æÆÔŽÜ,
+asquid:S2147"ECombine this catch with the one at line 214, which has the same body.(”ý¾8æÆÔŽÜ,
+Ysquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8æÆÔŽÜ,
+ksquid:UselessImportCheck"CRemove this unused import 'android.support.design.widget.Snackbar'.( À®p8æÆÔŽÜ,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(éŸÂ£øÿÿÿÿ8æÆÔŽÜ,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÙåÏœþÿÿÿÿ8æÆÔŽÜ,
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ª¿¡8æÆÔŽÜ,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(³Ó·øÿÿÿÿ8æÆÔŽÜ,
+€squid:S1450"_Remove the "enteredPassword2" field and declare it as a local variable in the relevant methods.(Šî®Äùÿÿÿÿ8æÆÔŽÜ,
+bsquid:UselessImportCheck":Remove this unused import 'android.text.format.Formatter'.(äÿ³q8æÆÔŽÜ,
+{squid:S1450"_Remove the "enteredPassword1" field and declare it as a local variable in the relevant methods.(Š‘…º8æÆÔŽÜ,
