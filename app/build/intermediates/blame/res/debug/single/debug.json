@@ -1,0 +1,1654 @@
+[
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_tab_text.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.1.0.aar\\b6ce90f86840b8c6e580b84f522ec445\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.1.0.aar\\b6ce90f86840b8c6e580b84f522ec445\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\anim_design_fab_in.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.1.0.aar\\b6ce90f86840b8c6e580b84f522ec445\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main2.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\content_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_experiment2.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\content_experiment2.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main3.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\activity_main3.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_text_cursor_material.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_in.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_two.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\fragment_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_outputcontrol.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\content_outputcontrol.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\anim_design_fab_out.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.1.0.aar\\b6ce90f86840b8c6e580b84f522ec445\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main4.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\content_main4.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_notification.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\xml\\pref_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxxhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxxhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-ldrtl-xxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_view.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_top.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_raspberry_pi.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\content_raspberry_pi.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthome2.jpg.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\drawable\\smarthome2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_radio_material.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tab.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\activity_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_pid.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\content_pid.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_level.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\content_level.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fan_speed.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\activity_fan_speed.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_switch_thumb_material.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main22.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\activity_main22.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_search_url_text.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_info_black_24dp.png.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\drawable-hdpi\\ic_info_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_tab_icon.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.1.0.aar\\b6ce90f86840b8c6e580b84f522ec445\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wip.gif.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\drawable\\wip.gif"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\drawable-v21\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxxhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_outputcontrol.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\activity_outputcontrol.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_top_material.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\drawable-xxhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxxhdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxxhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_parameter.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\content_parameter.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\drawable-mdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxxhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_out.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_tab.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\content_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-ldrtl-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_dark.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_todo.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\activity_todo.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-ldrtl-xxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_moisture.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\content_moisture.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_menu_item_action_area.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.1.0.aar\\b6ce90f86840b8c6e580b84f522ec445\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_sync_black_24dp.png.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\drawable-xhdpi\\ic_sync_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-ldrtl-xxxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_design_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.1.0.aar\\b6ce90f86840b8c6e580b84f522ec445\\res\\layout-sw600dp\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_experiment2.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\activity_experiment2.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_enter.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-ldrtl-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_action_bar_item_background_material.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_sync_black_24dp.png.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_sync_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_content_include.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-ldrtl-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_general.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\xml\\pref_general.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.1.0.aar\\b6ce90f86840b8c6e580b84f522ec445\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_soil.jpg.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\drawable\\soil.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_parameter.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\activity_parameter.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_top.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_btn_colored_material.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\drawable-hdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-ldrtl-mdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_one.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\fragment_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_dialog_material_background_dark.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_moisture.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\activity_moisture.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_brightness_activity.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\activity_brightness_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxxhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_level.jpg.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\drawable\\level.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_info_black_24dp.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\drawable-v21\\ic_info_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pid.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\activity_pid.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_temperature.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\activity_temperature.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxxhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-ldrtl-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.1.0.aar\\b6ce90f86840b8c6e580b84f522ec445\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_info_black_24dp.png.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\drawable-xxhdpi\\ic_info_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-ldrtl-xxxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_headers.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\xml\\pref_headers.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_info_black_24dp.png.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\drawable-mdpi\\ic_info_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_sync_black_24dp.png.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\drawable-hdpi\\ic_sync_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-ldrtl-xxxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_new_socket.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\content_new_socket.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mappic.jpg.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\drawable\\mappic.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-ldrtl-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_title_item.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main3.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\content_main3.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_info_black_24dp.png.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\drawable-xhdpi\\ic_info_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_full_material.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_edit_text_material.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxxhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\color-v11_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mgd.gif.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\drawable\\mgd.gif"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_thumb_material.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_light.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_info_black_24dp.png.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_info_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxxhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_sync_black_24dp.png.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\drawable-mdpi\\ic_sync_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_light.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mwelcome.gif.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\drawable\\mwelcome.gif"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-ldrtl-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxxhdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_sync_black_24dp.png.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\drawable-xxhdpi\\ic_sync_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mappicon.jpg.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\drawable\\mappicon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\anim_design_snackbar_in.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.1.0.aar\\b6ce90f86840b8c6e580b84f522ec445\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\anim_design_snackbar_out.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.1.0.aar\\b6ce90f86840b8c6e580b84f522ec445\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_light.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_voice_help.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\content_voice_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_track_material.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main4.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\activity_main4.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_calender_test.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\content_calender_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_light.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\drawable-xhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthome.jpg.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\drawable\\smarthome.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_subheader.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.1.0.aar\\b6ce90f86840b8c6e580b84f522ec445\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_new_socket.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\activity_new_socket.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_voice_help.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\activity_voice_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\color-v11_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-ldrtl-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_client.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\content_client.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_calender_test.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\activity_calender_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_header.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.1.0.aar\\b6ce90f86840b8c6e580b84f522ec445\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main22.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\content_main22.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_client.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\activity_client.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design_fab_background.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.1.0.aar\\b6ce90f86840b8c6e580b84f522ec445\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_textfield_search_material.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hbackground.jpg.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\drawable\\hbackground.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ip.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\activity_ip.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_tab.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\menu\\menu_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_level.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\activity_level.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_todo.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\content_todo.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_todo.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\item_todo.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-ldrtl-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_default_mtrl_shape.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_bar.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_voice_help.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\menu\\menu_voice_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_raspberry_pi.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\activity_raspberry_pi.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu_item.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.1.0.aar\\b6ce90f86840b8c6e580b84f522ec445\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_view_list_nav_layout.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_moisture.jpg.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\drawable\\moisture.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-ldrtl-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_color_highlight_material.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_water.jpg.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\drawable\\water.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_temperature.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\content_temperature.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_select_dialog_material.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_animation_gif.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\activity_animation_gif.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_data_sync.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\xml\\pref_data_sync.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar_include.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.1.0.aar\\b6ce90f86840b8c6e580b84f522ec445\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_icon.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_colored_material.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-ldrtl-xxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design_snackbar_background.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.1.0.aar\\b6ce90f86840b8c6e580b84f522ec445\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_humidity.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\content_humidity.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_expanded_menu_layout.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_experiment.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\content_experiment.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_finalhumidity.jpg.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\drawable\\finalhumidity.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_experiment.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\activity_experiment.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_bottom.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_item_material.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_borderless_material.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_ip.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\content_ip.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_exit.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_check_material.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_tab_indicator_material.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_temperature.jpg.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\drawable\\temperature.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_up_container.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_sync_black_24dp.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\drawable-v21\\ic_sync_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_multichoice_material.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_bottom.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23_abc_control_background_material.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-ldrtl-xxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_separator.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.1.0.aar\\b6ce90f86840b8c6e580b84f522ec445\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-ldrtl-mdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_three.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\fragment_three.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_animation_gif.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\content_animation_gif.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-ldrtl-xxxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-ldrtl-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_material.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xxhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_dialog_material_background_light.xml.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\sachinsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.0.aar\\e7ec78e00044a66c7025de827579ac81\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_humidity.xml.flat",
+        "source": "C:\\Users\\sachinsh\\Documents\\GitHub\\iotpi\\IOT-Raspberry-Pi-Android-App\\app\\src\\main\\res\\layout\\activity_humidity.xml"
+    }
+]
